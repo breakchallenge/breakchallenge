@@ -1,1 +1,1 @@
-![Alt text](https://blog.devstream.io/posts/open-a-pr-in-github/banner.jpeg =1000x500)
+![Alt text](https://blog.devstream.io/posts/open-a-pr-in-github/banner.jpeg | width=100)
